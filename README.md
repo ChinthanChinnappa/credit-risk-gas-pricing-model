@@ -1,4 +1,3 @@
-# JPMORGAN-JOB-SIMULATION
 # Credit Risk Modeling System
 
 ### Probability of Default (PD) & FICO Rating Quantization
